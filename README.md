@@ -7,5 +7,5 @@
 To generate an Archetype from this Catalog, copy and execute the following command:
 
 ```sh
-archetect catalog https://github.com/archetect-writing/writing.catalog
+archetect render https://github.com/archetect-writing/writing.catalog.git
 ```
