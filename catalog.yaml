@@ -1,0 +1,14 @@
+---
+description: "Writing and Documentation"
+authors: ["Jimmie Fulton <jimmie.fulton@gmail.com>"]
+languages: []
+frameworks: []
+tags: ["documentation", "writing"]
+
+requires:
+  archetect: "2.0.0"
+
+entries:
+  - archetype:
+      description: "Docusaurus Site"
+      source: https://github.com/archetect-writing/docusaurus-site.archetype.git
