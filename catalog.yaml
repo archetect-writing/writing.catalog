@@ -11,4 +11,4 @@ requires:
 entries:
   - archetype:
       description: "Docusaurus Site"
-      source: https://github.com/archetect-writing/docusaurus-site.archetype.git
+      source: https://github.com/archetect-writing/docusaurus-site.archetype.git#v1
